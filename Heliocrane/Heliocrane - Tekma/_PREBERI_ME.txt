@@ -1,0 +1,2 @@
+V datoteki vrednotenje.slx zamenjaj blok Model s svojim modelom.
+Zaženi zag_vred.m.

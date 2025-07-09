@@ -1,0 +1,1 @@
+Theilov_indeks = sqrt(sum((y_nap - y_mod).^2))./(sqrt(sum(y_nap.^2)) + sqrt(sum(y_mod.^2)))
