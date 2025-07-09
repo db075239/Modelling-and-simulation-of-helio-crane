@@ -137,7 +137,7 @@ These values indicate **excellent model accuracy**:
 
 📌 Comparison Plot:
 
-![Model vs. Real Signal](Heliocrane_Tekma/Tekma.png)
+![Model vs. Real Signal](Heliocrane - Tekma/Tekma.png)
 
 ---
 
