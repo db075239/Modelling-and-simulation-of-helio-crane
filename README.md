@@ -135,9 +135,9 @@ These values indicate **excellent model accuracy**:
 * **`J_kon`**: Total squared error between simulated and actual response
 * **Theil index**: Forecasting accuracy — values near 0 indicate high predictive precision
 
-📌 Comparison Plot:
+📌 Visuals are available on the next plot:
 
-![Model vs. Real Signal](Heliocrane - Tekma/Tekma.png)
+(Heliocrane - Tekma/Tekma.png)
 
 ---
 
