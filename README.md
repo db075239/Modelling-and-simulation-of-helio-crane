@@ -116,7 +116,7 @@ These values indicate **excellent model accuracy**:
 - **Theil index** close to 0 implies strong predictive performance.
 
 📌 Visuals are available in `Tekma.png`.
-![Model vs. Real Signal](Tekma.png)
+![Model vs. Real Signal](Heliocrane - Tekma/Tekma.png)
 
 ---
 
