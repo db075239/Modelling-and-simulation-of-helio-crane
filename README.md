@@ -1,6 +1,3 @@
-Absolutely! Here's the **entire README code** exactly as you'd save it in a `README.md` file, with **all content included** from top to bottom. Just copy and paste this into your `README.md`:
-
-````markdown
 # 🚁 Modeling and Simulation of Helio-Crane
 
 This repository contains MATLAB scripts and Simulink models for the **modeling, analysis, optimization, and validation of a helio-crane system** — a laboratory model that simulates a semi-helicopter mechanism.
@@ -161,9 +158,5 @@ These values indicate **excellent model accuracy**:
 **Program**: 1st Year MSc – Control Systems and Computer Engineering
 **Course**: Modeling Methods
 
-```
 
-✅ If you save this text into a file named `README.md`, GitHub will automatically format it perfectly.
 
-Let me know if you want a version with LaTeX equations or GitHub badges!
-```
