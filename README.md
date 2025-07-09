@@ -57,7 +57,6 @@ The primary goals of this project include:
 | `objectiveFunction.m` | Objective function used in optimization. |
 | `Primerjava.m` | Compares nonlinear model response with real system (`realnasim.mat`, `modelrez.mat`). |
 | `TestRealneNaprave.m` | Simulates the real system (`RealniSistem.slx`) for step input. |
-| `Theil_tic.m` | Calculates Theil Index between model and real output. |
 
 #### Simulink Models
 
@@ -65,7 +64,6 @@ The primary goals of this project include:
 |-------|---------|
 | `modelX.slx` | Main nonlinear dynamic model. |
 | `modelX2.slx` | Model used for linearization. |
-| `TekmaModel.slx` | Model used in final validation (duplicate in both folders). |
 | `StatKarakteristika.slx` | Plots static characteristic (voltage vs. angle). |
 | `RealniSistem.slx` | Simulates behavior of the actual system. |
 | `LinearniModeliDT.slx` | Compares linearized model behaviors. |
@@ -74,7 +72,6 @@ The primary goals of this project include:
 
 | File | Description |
 |------|-------------|
-| `StaticnaNaprave.mat` | Experimental static characteristic data. |
 | `modelrez.mat` | Output from nonlinear model simulation. |
 | `realnasim.mat` | Recorded real system output data. |
 
@@ -154,7 +151,7 @@ These values indicate **excellent model accuracy**:
 ---
 
 **Authors**: David Blazheski, Teodora Trajkova, Ivana Kerkez
-**Institution**: Faculty of Electrical Engineering
+**Institution**: Faculty of Electrical Engineering, University of Ljubljana  
 **Program**: 1st Year MSc – Control Systems and Computer Engineering
 **Course**: Modeling Methods
 
