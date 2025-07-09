@@ -137,7 +137,9 @@ These values indicate **excellent model accuracy**:
 
 📌 Visuals are available on the next plot:
 
-(Heliocrane - Tekma/Tekma.png)
+![Model vs. Real Signal](Heliocrane%20-%20Tekma/Tekma.png)
+
+Where the blue plot is the output of the real system, and the red one is our nonlinear model.
 
 ---
 
@@ -150,10 +152,10 @@ These values indicate **excellent model accuracy**:
 
 ---
 
-**Authors**: David Blazheski, Teodora Trajkova, Ivana Kerkez
+**Authors**: David Blazheski, Teodora Trajkova, Ivana Kerkez  
 **Institution**: Faculty of Electrical Engineering, University of Ljubljana  
-**Program**: 1st Year MSc – Control Systems and Computer Engineering
-**Course**: Modeling Methods
+**Program**: 1st Year MSc – Control Systems and Computer Engineering   
+**Course**: Modeling Methods   
 
 
 
